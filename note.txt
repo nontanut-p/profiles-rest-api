@@ -1,0 +1,8 @@
+vagrant up // use for start
+vagrant ssh // use for control
+create python environment : python -m venv path
+activate : python environment source ~/env/bin/activate
+
+
+python library  list :
+สร้าง library list แล้วใช้  pip install -r file.txt
